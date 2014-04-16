@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale>
+	<backend>
+		<editortemplate_manager>
+			<item type="label" name="AddEditortemplateManager">
+				<translation language="en"><![CDATA[Add]]></translation>
+				<translation language="de"><![CDATA[Hinzufügen]]></translation>
+			</item>
+			<item type="label" name="TemplateName">
+				<translation language="en"><![CDATA[Name]]></translation>
+				<translation language="de"><![CDATA[Name]]></translation>
+			</item>
+			<item type="label" name="TemplateDescription">
+				<translation language="en"><![CDATA[Description]]></translation>
+				<translation language="de"><![CDATA[Beschreibung]]></translation>
+			</item>
+			<item type="label" name="TemplateImage">
+				<translation language="en"><![CDATA[Image]]></translation>
+				<translation language="de"><![CDATA[Bild]]></translation>
+			</item>
+			<item type="label" name="TemplateContent">
+				<translation language="en"><![CDATA[Content]]></translation>
+				<translation language="de"><![CDATA[Inhalt]]></translation>
+			</item>
+		</editortemplate_manager>
+		<core>
+			<item type="label" name="EditortemplateManager">
+				<translation language="en"><![CDATA[Editor-Template  Manager]]></translation>
+				<translation language="de"><![CDATA[Editor-Template  Manager]]></translation>
+			</item>
+			<item type="label" name="EditortemplateManagerDetail">
+				<translation language="en"><![CDATA[Editor-Template  Manager detail]]></translation>
+				<translation language="de"><![CDATA[Editor-Template  Manager Detail]]></translation>
+			</item>
+			<item type="label" name="EditortemplateManagerCategory">
+				<translation language="en"><![CDATA[Editor-Template  Manager category]]></translation>
+				<translation language="de"><![CDATA[Editor-Template  Manager Kategorien]]></translation>
+			</item>
+			<item type="message" name="NoCategories">
+				<translation language="en"><![CDATA[no categories]]></translation>
+				<translation language="de"><![CDATA[Keine Kategorien]]></translation>
+			</item>
+		</core>
+	</backend>
+	<frontend>
+		<core>
+		</core>
+	</frontend>
+</locale>
